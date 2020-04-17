@@ -1,3 +1,7 @@
+Shoutouts to @jasmincher for the inspiration behind this project and being the dopest front-end dev I've met to date <3
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
