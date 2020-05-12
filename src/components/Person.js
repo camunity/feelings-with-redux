@@ -13,13 +13,14 @@ class Person extends React.Component{
         this.state = {name: ''};
     }
 
-/* // changing local state
+ // changing local state
     // changeName = (event) => {
     //     this.setState({
     //         name: event.target.value
     //     })
+    //     this.props.updateOtherComponents(event.target.value)
     // }
-*/
+
 
 // changing global state with Redux
     changeName = (event) => {

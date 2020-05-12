@@ -4,6 +4,7 @@ import Person from './components/Person';
 import Feelings from './components/Feelings';
 import HairColor from './components/HairColor';
 
+
 function App() {
   return (
     <div className="App">
